@@ -1,0 +1,13 @@
+mongod --help for help and startup options
+Mon Aug 11 14:59:11.461 [initandlisten] MongoDB starting : pid=5287 port=27017 dbpath=/data/db/ 64-bit host=Tuckernuck.local
+Mon Aug 11 14:59:11.461 [initandlisten] 
+Mon Aug 11 14:59:11.461 [initandlisten] ** WARNING: soft rlimits too low. Number of files is 256, should be at least 1000
+Mon Aug 11 14:59:11.461 [initandlisten] db version v2.4.9
+Mon Aug 11 14:59:11.461 [initandlisten] git version: nogitversion
+Mon Aug 11 14:59:11.461 [initandlisten] build info: Darwin minimavericks.local 13.1.0 Darwin Kernel Version 13.1.0: Thu Jan 16 19:40:37 PST 2014; root:xnu-2422.90.20~2/RELEASE_X86_64 x86_64 BOOST_LIB_VERSION=1_49
+Mon Aug 11 14:59:11.461 [initandlisten] allocator: tcmalloc
+Mon Aug 11 14:59:11.461 [initandlisten] options: {}
+Mon Aug 11 14:59:11.461 [initandlisten] journal dir=/data/db/journal
+Mon Aug 11 14:59:11.462 [initandlisten] recover : no journal files present, no recovery needed
+Mon Aug 11 14:59:11.507 [websvr] admin web console waiting for connections on port 28017
+Mon Aug 11 14:59:11.507 [initandlisten] waiting for connections on port 27017
