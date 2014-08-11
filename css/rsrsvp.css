@@ -60,3 +60,10 @@ table {
 	margin:0px auto 0px auto;
 	width:640px;
 }
+
+
+/* Typography */
+
+h1, p {
+	color:grey;
+}
