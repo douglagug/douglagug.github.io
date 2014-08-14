@@ -63,8 +63,22 @@ img {
 	width:640px;
 	height:1136px;
 }
-
-	
+.logo {
+	position: fixed;
+	width:640;
+}
+.logo img {
+	margin-left:170px;
+	width:300px;
+}
+.content {
+	padding:150px 0px 0px 0px;
+}
+.content h1 {
+	text-align: center;
+	margin:60px 0px 0px 0px;
+	font-size: 1.85em;
+}	
 .wrapper {
 	margin:0px auto 0px auto;
 	width:480px;
@@ -73,7 +87,7 @@ img {
 
 /* Typography */
 
-h1, p {
-	color:grey;
+h1 {
+	color:#FED43F;
 	font-family: "freight-sans-pro",sans-serif;
 }
