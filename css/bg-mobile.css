@@ -81,15 +81,17 @@ img {
 	left:170;
 }
 .btn {
-	width:236px;
+	width:300px;
 	height:56px;
 	margin:12px 0px 0px 0px;
+	-webkit-border-radius: 8px 8px 8px 8px;
+	border-radius: 8px 8px 8px 8px;
 }	
 .blu {
-	background-image: url(../bg-img/btn-blu.png);
+	background-color: blue;
 }
 .yel {
-	background-image: url(../bg-img/btn-yel.png);
+	background-color: yellow;
 }
 
 
