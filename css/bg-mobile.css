@@ -64,7 +64,8 @@ img {
 }
 .logo {
 	width:300px;
-	margin: 0px auto 0px auto;
+	position: fixed;
+	left:170;
 }
 .content {
 	padding:20px 0px 0px 0px;
