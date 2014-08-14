@@ -85,14 +85,14 @@ body {
 	font-size: 2.25em;
 }
 .btns {
-	width:3.25em;
+	width:12em;
 	position: fixed;
 	top:75%;
 	left:15%;
 }
 .btn {
-	width:3.25em;
-	height:.45em;
+	width:12em;
+	height:3em;
 	margin-top: .25em;
 	-webkit-border-radius: 8px 8px 8px 8px;
 	border-radius: 8px 8px 8px 8px;
