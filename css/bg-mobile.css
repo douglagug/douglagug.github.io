@@ -60,7 +60,8 @@ img {
 
 .bgone {
 	background-image: url(../bg-img/bg01.jpg);
-	width:100%;
+	width:640px
+	height:1136px;
 }
 .logo {
 	position: fixed;
