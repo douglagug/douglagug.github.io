@@ -64,9 +64,8 @@ img {
 
 }
 .logo {
-	width:300px;
 	position: fixed;
-	left:170;
+	left:.5em;
 }
 .content {
 	padding:160px 0px 0px 0px;
@@ -79,8 +78,8 @@ img {
 .btns {
 	width:300px;
 	position: fixed;
-	top:700;
-	left:170;
+	top:.7em;
+	left:.5em;
 }
 .btn {
 	width:300px;
