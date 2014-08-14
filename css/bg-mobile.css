@@ -58,13 +58,17 @@ img {
 
 /* Basic Layout */
 
+body {
+	width:100%;
+}
+
 .bgone {
 	background-image: url(../bg-img/bg01.jpg);
 	width:100%;
 }
 .logo {
 	position: fixed;
-	left:50%;
+	left:25%;
 }
 .content {
 	padding:160px 0px 0px 0px;
