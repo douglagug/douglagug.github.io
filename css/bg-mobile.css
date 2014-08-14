@@ -64,11 +64,9 @@ img {
 }
 .logo {
 	position: fixed;
-	width:640px;
 }
 .logo img {
 	margin-left:170px;
-	width:300px;
 }
 .content {
 	padding:150px 0px 0px 0px;
