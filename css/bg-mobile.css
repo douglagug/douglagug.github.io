@@ -63,10 +63,11 @@ img {
 
 }
 .logo {
-	position: fixed;
+	width:300px;
+	margin: 0px auto 0px auto;
 }
 .logo img {
-	margin-left:170px;
+	width:100%;
 }
 .content {
 	padding:150px 0px 0px 0px;
