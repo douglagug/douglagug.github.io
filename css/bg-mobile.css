@@ -70,7 +70,7 @@ body {
 }
 .logo {
 	position: fixed;
-	left:15%;
+	left:25%;
 	width:10em;
 	
 	img {
@@ -82,7 +82,7 @@ body {
 }
 .content h1 {
 	text-align: center;
-	margin-top: 2.15em;
+	margin-top: 3.15em;
 	font-size: 1.25em;
 }
 .btns {
