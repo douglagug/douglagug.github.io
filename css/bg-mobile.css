@@ -70,6 +70,7 @@ body {
 .logo {
 	position: fixed;
 	left:15%;
+	width:150px;
 }
 .content {
 	padding:160px 0px 0px 0px;
@@ -80,7 +81,7 @@ body {
 	font-size: 2.25em;
 }
 .btns {
-	width:300px;
+	width:150px;
 	position: fixed;
 	top:75%;
 	left:15%;
