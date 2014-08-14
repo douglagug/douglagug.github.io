@@ -59,6 +59,8 @@ img {
 
 .bgone {
 	background-image: url(../bg-img/bg01.jpg);
+	width:320px;
+	height:728;
 }
 .logo {
 	width:300px;
