@@ -71,6 +71,10 @@ body {
 	position: fixed;
 	left:15%;
 	width:150px;
+	
+	img {
+		width:100%;
+	}
 }
 .content {
 	padding-top:1.75em;
