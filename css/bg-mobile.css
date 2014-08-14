@@ -75,10 +75,10 @@ img {
 	font-size: 2.25em;
 }
 .btns {
-	width:236px;
+	width:300px;
 	position: fixed;
-	left:200;
-	top:800;
+	top:700;
+	left:170;
 }
 .btn {
 	width:236px;
