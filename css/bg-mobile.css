@@ -60,12 +60,11 @@ img {
 
 .bgone {
 	background-image: url(../bg-img/bg01.jpg);
-	width:640px;
-	height:1136px;
+	width:100%;
 }
 .logo {
 	position: fixed;
-	width:640;
+	width:640px;
 }
 .logo img {
 	margin-left:170px;
