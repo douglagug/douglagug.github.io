@@ -93,12 +93,12 @@ body {
 }
 .btn {
 	width:9em;
-	height:.85em;
+	height:.95em;
 	margin-top: .25em;
 	-webkit-border-radius: 8px 8px 8px 8px;
 	border-radius: 8px 8px 8px 8px;
 	text-align: center;
-	padding-top:.45em;
+	padding-top:.25em;
 	font-size: 1.45em;
 }	
 .blu {
