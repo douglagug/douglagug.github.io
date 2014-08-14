@@ -68,7 +68,7 @@ body {
 }
 .logo {
 	position: fixed;
-	left:25%;
+	left:15%;
 }
 .content {
 	padding:160px 0px 0px 0px;
@@ -81,8 +81,8 @@ body {
 .btns {
 	width:300px;
 	position: fixed;
-	top:.7em;
-	left:.5em;
+	top:75%;
+	left:15%;
 }
 .btn {
 	width:300px;
