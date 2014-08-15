@@ -79,14 +79,12 @@ body {
 }
 .content {
 	padding-top:1.75em;
-	
-	h1 {
+}
+.content h1 {
 		text-align: center;
 		margin-top: 4em;
 		font-size: 1.25em;
 		}
-}
-
 
 .btns {
 	width:9em;
