@@ -24,6 +24,9 @@ time, mark, audio, video {
 	font-size: 100%;
 	vertical-align: baseline;
 	}
+a {
+	text-decoration: none;
+}
 
 
 	
@@ -68,6 +71,12 @@ body {
 	width:100%;
 	height:100%;
 }
+.bgtwo {
+	background-image: url(../bg-img/bg-explore.jpg);
+	background-size:100%;
+	width:100%;
+	height:100%;
+}
 .logo {
 	position: fixed;
 	left:25%;
@@ -84,6 +93,11 @@ body {
 		text-align: center;
 		margin-top: 4.5em;
 		font-size: 1.25em;
+		}
+.content h2 {
+		text-align: center;
+		margin-top: 1.5em;
+		font-size: 1.00em;
 		}
 
 .btns {
@@ -116,6 +130,13 @@ body {
 
 h1 {
 	color:#FED43F;
+	font-family: "freight-sans-pro",sans-serif;
+	font-weight: normal;
+	padding:0px;
+	margin:0px;
+}
+h2 {
+	color:#FFFFFF;
 	font-family: "freight-sans-pro",sans-serif;
 	font-weight: normal;
 	padding:0px;
