@@ -107,6 +107,12 @@ body {
 	top:75%;
 	left:20%;
 }
+.btnss {
+	width:18em;
+	position: fixed;
+	top:75%;
+	left:0%;
+}
 .btn {
 	width:9em;
 	height:1.3em;
@@ -116,6 +122,7 @@ body {
 	text-align: center;
 	padding-top:.3em;
 	font-size: 1.25em;
+	float:left;
 }	
 .blu {
 	background-color: #388ccb;
@@ -124,6 +131,11 @@ body {
 .yel {
 	background-color: #fdd53f;
 	color:#314955;
+}
+.ss {
+	background-color: #fdd53f;
+	color:#314955;
+	float:left;
 }
 
 
