@@ -74,7 +74,7 @@ body {
 .bgtwo {
 	background-image: url(../bg-img/bg-explore.jpg);
 	background-size:100%;
-	background-position-y: -75px;
+	background-position-y: -95px;
 	width:100%;
 	height:100%;
 }
@@ -92,7 +92,7 @@ body {
 }
 .content h1 {
 		text-align: center;
-		margin-top: 3.5em;
+		margin-top: 4.0em;
 		font-size: 1.25em;
 		}
 .content h2 {
