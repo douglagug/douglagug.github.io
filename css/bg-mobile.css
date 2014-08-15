@@ -90,12 +90,12 @@ body {
 	width:9em;
 	position: fixed;
 	top:75%;
-	left:25%;
+	left:20%;
 }
 .btn {
 	width:9em;
 	height:1.25em;
-	margin-top: .45em;
+	margin-top: .75em;
 	-webkit-border-radius: 8px 8px 8px 8px;
 	border-radius: 8px 8px 8px 8px;
 	text-align: center;
