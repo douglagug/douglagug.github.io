@@ -74,7 +74,7 @@ body {
 .bgtwo {
 	background-image: url(../bg-img/bg-explore.jpg);
 	background-size:100%;
-	background-position-y: 200px;
+	background-position-y: 50px;
 	width:100%;
 	height:100%;
 }
