@@ -107,7 +107,7 @@ img {
     left:50%;
     top:0;
     margin-left:-130px;
-    margin-top:400px;
+    margin-top:380px;
     background-color: pink;
     overflow: auto;
 }
@@ -117,7 +117,7 @@ img {
     left:50%;
     top:0;
     margin-left:-70px;
-    margin-top:440px;
+    margin-top:420px;
     background-color: pink;
     overflow: auto;
 }
@@ -131,7 +131,7 @@ img {
 	padding:8px 8px 6px 8px;
 	font-size: .85em;
 	float:left;
-}	
+}
 .blu {
 	background-color: #388ccb;
 	color:white;
