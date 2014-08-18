@@ -117,11 +117,13 @@ body {
 	width:8em;
 	height:1.1em;
 	margin-top: .45em;
+	margin-right: .45em;
 	-webkit-border-radius: 8px 8px 8px 8px;
 	border-radius: 8px 8px 8px 8px;
 	text-align: center;
-	padding-top:.3em;
-	font-size: 1.05em;
+	padding-top:.2em;
+	padding-bottom: .2em;
+	font-size: 1.00em;
 	float:left;
 }	
 .blu {
