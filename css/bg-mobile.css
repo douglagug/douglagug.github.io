@@ -79,16 +79,19 @@ body {
 	height:100%;
 }
 .logo {
-	position: fixed;
-	left:25%;
-	width:10em;
+    position : absolute;    
+    width:9em;
+    left:50%;
+    margin-left:-100px;
+    margin-top:0px;
+    background-color: pink;
 	
 	img {
 		width:100%;
 	}
 }
 .content {
-	padding-top:1.75em;
+	padding:0px;
 }
 .content h1 {
 		text-align: center;
