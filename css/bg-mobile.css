@@ -110,6 +110,7 @@ body {
 .btnss {
 	width:85%;
 	position: fixed;
+	margin:0px auto 0px auto;
 	top:75%;
 	left:0%;
 }
@@ -123,7 +124,7 @@ body {
 	text-align: center;
 	padding-top:.2em;
 	padding-bottom: .2em;
-	font-size: 1.00em;
+	font-size: .95em;
 	float:left;
 }	
 .blu {
