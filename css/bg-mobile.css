@@ -80,7 +80,6 @@ img {
     top:0;
     margin-left:-75px;
     margin-top:0px;
-    background-color: pink;
 	
 	img {
 		width:100%;
@@ -108,7 +107,6 @@ img {
     top:0;
     margin-left:-130px;
     margin-top:380px;
-    background-color: pink;
     overflow: auto;
 }
 .btns {
@@ -118,7 +116,6 @@ img {
     top:0;
     margin-left:-70px;
     margin-top:420px;
-    background-color: pink;
     overflow: auto;
 }
 .btn {
