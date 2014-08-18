@@ -73,6 +73,12 @@ img {
 	width:100%;
 	height:100%;
 }
+.bgharbor {
+	background-image: url(../bg-img/bg-harbor.jpg);
+	background-size:100%;
+	width:100%;
+	height:100%;
+}
 .bgblue {
 	background-color:#2469b3;
 	padding-bottom: 200px;
