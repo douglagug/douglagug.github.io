@@ -81,6 +81,7 @@ body {
     position : absolute;    
     width:150px;
     left:50%;
+    top:0;
     margin-left:-75px;
     margin-top:0px;
     background-color: pink;
@@ -91,6 +92,8 @@ body {
 }
 .content {
 	padding:0px;
+	margin:0px;
+	overflow: auto;
 }
 .content h1 {
 		text-align: center;
@@ -102,17 +105,12 @@ body {
 		margin: 0.75em 1.0em 0em 1.0em;
 		font-size: 1.00em;
 		}
-.btns {
-	width:9em;
-	position: fixed;
-	top:75%;
-	left:20%;
-}
 .btnss {
     position : absolute;    
     width:260px;
     height:1.2em;
     left:50%;
+    top:0;
     margin-left:-130px;
     margin-top:400px;
     background-color: pink;
