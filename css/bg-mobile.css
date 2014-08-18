@@ -74,7 +74,7 @@ img {
 	height:100%;
 }
 .logo {
-    position : absolute;    
+    position: fixed;    
     width:150px;
     left:50%;
     top:0;
@@ -101,7 +101,7 @@ img {
 		font-size: 1.00em;
 		}
 .btnss {
-    position: absolute;    
+    position: fixed;    
     width:260px;
     left:50%;
     top:0;
@@ -110,7 +110,7 @@ img {
     overflow: auto;
 }
 .btns {
-    position: absolute;    
+    position: fixed;    
     width:140px;
     left:50%;
     top:0;
