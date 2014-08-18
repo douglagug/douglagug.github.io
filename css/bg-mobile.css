@@ -61,10 +61,6 @@ img {
 
 /* Basic Layout */
 
-body {
-	width:100%;
-}
-
 .bgone {
 	background-image: url(../bg-img/bg01.jpg);
 	background-size:100%;
@@ -115,14 +111,24 @@ body {
     background-color: pink;
     overflow: auto;
 }
+.btns {
+    position: absolute;    
+    width:140px;
+    left:50%;
+    top:0;
+    margin-left:-70px;
+    margin-top:440px;
+    background-color: pink;
+    overflow: auto;
+}
 .btn {
-	width:8em;
-	height:1.1em;
-	margin-top: .45em;
+	width:106px;
+	height:16px;
+	margin:4px;
 	-webkit-border-radius: 8px 8px 8px 8px;
 	border-radius: 8px 8px 8px 8px;
 	text-align: center;
-	padding:4px 6px 4px 6px;
+	padding:8px 8px 6px 8px;
 	font-size: .85em;
 	float:left;
 }	
