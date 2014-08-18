@@ -74,15 +74,14 @@ body {
 .bgtwo {
 	background-image: url(../bg-img/bg-explore.jpg);
 	background-size:100%;
-	background-position-y: -95px;
 	width:100%;
 	height:100%;
 }
 .logo {
     position : absolute;    
-    width:9em;
+    width:150px;
     left:50%;
-    margin-left:-100px;
+    margin-left:-75px;
     margin-top:0px;
     background-color: pink;
 	
@@ -103,7 +102,6 @@ body {
 		margin: 0.75em 1.0em 0em 1.0em;
 		font-size: 1.00em;
 		}
-
 .btns {
 	width:9em;
 	position: fixed;
@@ -112,12 +110,11 @@ body {
 }
 .btnss {
     position : absolute;    
-    width:14em;
+    width:260px;
     height:1.2em;
     left:50%;
-    top:50%;
-    margin-left:-100px;
-    margin-top:-100px;
+    margin-left:-130px;
+    margin-top:400px;
     background-color: pink;
 }
 .btn {
