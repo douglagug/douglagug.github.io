@@ -170,7 +170,10 @@ img {
 		margin: 0.15em 1.0em 0em 1.0em;
 		padding:0px;
 		font-size: 1.00em;
-		}		
+		}	
+.contentt p {
+	margin: 0.75em 1.0em 0em 1.0em;
+}	
 .boats {
 	width:184px;
 	position: absolute;    
